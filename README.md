@@ -6,7 +6,7 @@ This repo holds all branding assets for Varld and it's sub-brands.
 
 ## Brands
 
-- [varld](/varld)
+- [Varld](/varld)
 
 ## License
 
